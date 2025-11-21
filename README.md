@@ -1,5 +1,5 @@
 # apkteraboxx-apk-downloader-website
-This repository contains the website assets for ApkTeraboxx.com — a growing platform for safe APK downloads, Android app reviews, troubleshooting guides, and tech tips. We also cover TeraBox features like free cloud storage and secure file backup to help users manage apps and data easily.
+This repository contains the website assets for apkteraboxx.com — a growing platform for safe APK downloads, Android app reviews, troubleshooting guides, and tech tips. We also cover TeraBox features like free cloud storage and secure file backup to help users manage apps and data easily.
 # apkteraboxx.com – APK Downloads, Android Guides & TeraBox Features
 
 Welcome to the official repository for **apkteraboxx.com**, a platform dedicated to safe APK downloads, Android app reviews, troubleshooting guides, and useful tech tips.  
