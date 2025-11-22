@@ -23,7 +23,7 @@ Follow these steps to download and install the TeraBox MOD APK:
 6. Tap **Install**.  
    - If you see an **Unknown Sources** warning:  
      Go to **Settings → Allow from this source**.
-7. For a detailed installation guide, visit our website.
+7. For a detailed installation guide, visit our website **https://apkteraboxx.com/**
 
 ## 🔍 Why ApkTeraboxx.com?
 Our goal is to provide Android users with fast, safe, and helpful content.  
